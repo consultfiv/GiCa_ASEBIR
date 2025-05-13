@@ -4,6 +4,8 @@ Python:
 
 
 
+ESTE APARTADO FORMA PARTE DEL CAPÍTULO 6 DIY: construye tu propio algoritmo (Guía básica de Inteligencia Artificial para embriólogos).
+
 Guía de instalación: RStudio y Python (Anaconda)
 🧪 RStudio
 1. Descargar e instalar R
