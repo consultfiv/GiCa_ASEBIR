@@ -1,3 +1,9 @@
+CÓDIGO COMPLETO:
+R: DIY_v1 (RStudio)
+Python: 
+
+
+
 Guía de instalación: RStudio y Python (Anaconda)
 🧪 RStudio
 1. Descargar e instalar R
