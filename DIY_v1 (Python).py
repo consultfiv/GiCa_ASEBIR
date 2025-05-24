@@ -147,7 +147,7 @@ rf.fit(X_train, y_train)
 # **y_pred = (y_pred_proba > 0.5).astype(int)**
 # 
 # 
-donde *rf.predict_proba(X_test)* calcula las probabilidades de predicción para cada clase usando el modelo Random Forest en los datos de prueba; 
+# donde *rf.predict_proba(X_test)* calcula las probabilidades de predicción para cada clase usando el modelo Random Forest en los datos de prueba; 
 # 
 # y *[:, 1]* selecciona la segunda columna que corresponde a la probabilidad de tener diabetes (la de Level 1).
 # 
